@@ -1,5 +1,4 @@
 # chatbot-rag-llama
-"# chatbot-rag-llama"
 
 # RAG-Based Content Engine
 
@@ -64,7 +63,7 @@ This repository contains a Retrieval-Augmented Generation (RAG) based applicatio
 1. Ensure that the Ollama executable is running and the Llama3 model is downloaded.
 2. Run the application:
    ```sh
-   python app.py
+   streamlit run app.py
    ```
 
 3. Access the application through the provided URL and interact with the RAG-based content engine.
